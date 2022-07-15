@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.vdo-preview {
+  width: 300px;
+}
+
+.thumb-img{
+  margin-bottom: 10px;
+}
+
+.priv-img{
+  width: 100%;
+}
+
+.vdo-bottom{
+}
+
+.profile-img{
+  display: inline-block;
+  vertical-align: top;
+  width: 50px;
+}
+.usr-img{
+    width: 100%;
+    border-radius: 30px;
+}
+.vdo-title{
+  display: inline-block;
+  width: 220px;
+  margin-left: 5px;
+  
+}
+
+.title{
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 25px;
+}
+
+.channel-name{
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #606060;
+}
+
+.stats{
+  margin-top: 3px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #606060;
+}
